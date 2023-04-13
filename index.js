@@ -59,10 +59,11 @@ function writeToFile(fileName, data) {
     return fs.writeFileSync(path.join(process.cwd(), fileName), data);
 }
 
-// TODO: Create a function to initialize app
+// TODO: Create a function to initialize app (DONE)
 function init() {
     inquirer.prompt(questions).then((responses) => {
         console.log('responses', responses);
+        writeToFile('README.md', genReadme(responses ))
     })
 }
 // Function call to initialize app
