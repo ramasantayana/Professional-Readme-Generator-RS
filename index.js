@@ -17,14 +17,40 @@ const questions = [
         name: 'description', 
       }, 
       {
-        type: 'installation-instructions',
+        type: 'input',
         message: 'give installation instruction for the project',
-        name: 'installation',
+        name: 'installation-instructions',
       }, 
       {
-        type: 'usage-information',
+        type: 'input',
         message: 'give usage information for the project',
-        name: 'usage',
+        name: 'usage-information',
+      }, 
+      {
+        type: 'input',
+        message: 'give contribution guidelines for the project',
+        name: 'contribution-guidelines',
+      }, 
+      {
+        type: 'input',
+        message: 'give test instructions for the project',
+        name: 'test-instructions',
+      }, 
+      {
+        type: 'list',
+        message: 'choose a license for the project',
+        name: 'license',
+        choices: ['MIT', 'APACHE_2.0', 'GPL_3.0', 'BSD_3', 'None']
+      }, 
+      {
+        type: 'input',
+        message: 'give github username',
+        name: 'git_hub',
+      }, 
+      {
+        type: 'input',
+        message: 'give email address',
+        name: 'email',
       }, 
 ];
 
@@ -32,7 +58,10 @@ const questions = [
 function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
-function init() {}
-
+function init() {
+    inquirer.prompt(questions).then((responses) => {
+        console.log('responses', responses);
+    })
+}
 // Function call to initialize app
 init();
