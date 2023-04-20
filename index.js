@@ -19,7 +19,7 @@ const questions = [
       {
         type: 'input',
         message: 'give installation instruction for the project',
-        name: 'installation-instructions',
+        name: 'installationInstructions',
       }, 
       {
         type: 'input',

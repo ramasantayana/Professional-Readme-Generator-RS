@@ -44,6 +44,11 @@ ${renderLicenseLink(data.license)}
 
 * [Questions](#questions)
 
+## Installation
+
+${data.installationInstructions}
+
+
 `;
 }
 
