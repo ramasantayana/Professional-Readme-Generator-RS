@@ -48,6 +48,9 @@ ${renderLicenseLink(data.license)}
 
 ${data.installationInstructions}
 
+## Usage
+
+${data.usageInformation}
 
 `;
 }
