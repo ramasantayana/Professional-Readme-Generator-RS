@@ -1,9 +1,9 @@
 # title
-  ![License](https://img.shields.io/badge/license-BSD_3-green.svg)
+  ![License](https://img.shields.io/badge/license-APACHE_2.0-green.svg)
 
   ## Description
 
-description
+stuff
 
 ## Table of Contents 
 
@@ -13,4 +13,10 @@ description
 
 * [License](#license)
 
+
+* [Contributing](#contributing)
+
+* [Tests](#tests)
+
+* [Questions](#questions)
 
