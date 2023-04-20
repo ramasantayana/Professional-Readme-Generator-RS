@@ -1,14 +1,16 @@
-# stuff
-  ![License](https://img.shields.io/badge/license-GPL_3.0-green.svg)
+# title
+  ![License](https://img.shields.io/badge/license-BSD_3-green.svg)
 
   ## Description
 
-stuff
+description
 
 ## Table of Contents 
 
 * [Installation](#installation)
 
 * [Usage](#usage)
-undefined
+
+* [License](#license)
+
 
