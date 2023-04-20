@@ -28,3 +28,7 @@ test
 
 test
 
+## License
+
+This project is licensed under the APACHE_2.0 license.
+
