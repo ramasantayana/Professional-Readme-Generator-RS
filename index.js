@@ -29,12 +29,12 @@ const questions = [
       {
         type: 'input',
         message: 'give contribution guidelines for the project',
-        name: 'contribution-guidelines',
+        name: 'contributionGuidelines',
       }, 
       {
         type: 'input',
         message: 'give test instructions for the project',
-        name: 'test-instructions',
+        name: 'testInstructions',
       }, 
       {
         type: 'list',

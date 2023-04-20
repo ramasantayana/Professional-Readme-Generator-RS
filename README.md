@@ -32,3 +32,15 @@ test
 
 This project is licensed under the APACHE_2.0 license.
 
+## Contributing
+
+test
+
+## Tests
+
+test
+
+## Questions
+
+For any questions about this project, open an issue or contact me directly at rs. You can find more of my other projects at [rs](https://github.com/rs/).
+

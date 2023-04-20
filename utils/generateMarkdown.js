@@ -62,6 +62,22 @@ ${data.usageInformation}
 
 ${renderLicenseSection(data.license)}
 
+## Contributing
+
+${data.contributionGuidelines}
+
+## Tests
+
+${data.testInstructions}
+
+## Questions
+
+For any questions about this project, open an issue or contact me directly at ${
+    data.email
+  }. You can find more of my other projects at [${data.git_hub}](https://github.com/${
+    data.git_hub
+  }/).
+
 `;
 }
 
