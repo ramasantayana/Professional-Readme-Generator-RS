@@ -16,6 +16,8 @@ Instructional/Demonstration Link: https://youtu.be/m8ibwtVMZKw
 
 SAMPLE README
 
+Link: https://github.com/ramasantayana/Professional-Readme-Generator-RS/blob/main/GENERATEDREADME.md
+
 CREDITS
 
 I received help in writing the code from my coding tutor Suresh Kumar 
