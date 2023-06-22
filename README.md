@@ -7,7 +7,9 @@ A command line application that generates a professional README.md file
 TABLE OF CONTENTS
 
 -Video
+
 -Sample README
+
 -Credits
 
 VIDEO
