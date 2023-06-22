@@ -1,46 +1,21 @@
-# test
-  ![License](https://img.shields.io/badge/license-APACHE_2.0-green.svg)
+PROFESSIONAL README GENERATOR 
 
-  ## Description
+DESCRIPTION
 
-test
+A command line application that generates a professional README.md file
 
-## Table of Contents 
+TABLE OF CONTENTS
 
-* [Installation](#installation)
+-Video
+-Sample README
+-Credits
 
-* [Usage](#usage)
+VIDEO
 
-* [License](#license)
+Instructional/Demonstration Link: https://youtu.be/m8ibwtVMZKw
 
+SAMPLE README
 
-* [Contributing](#contributing)
+CREDITS
 
-* [Tests](#tests)
-
-* [Questions](#questions)
-
-## Installation
-
-test
-
-## Usage
-
-test
-
-## License
-
-This project is licensed under the APACHE_2.0 license.
-
-## Contributing
-
-test
-
-## Tests
-
-test
-
-## Questions
-
-For any questions about this project, open an issue or contact me directly at rs. You can find more of my other projects at [rs](https://github.com/rs/).
-
+I received help in writing the code from my coding tutor Suresh Kumar 
